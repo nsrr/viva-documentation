@@ -1,4 +1,4 @@
-viva-documentation
+Viva Documentation
 ==================
 
-Viva documentation for sleepdata.org
+Version controlled repository for Project Viva documentation on [sleepdata.org](http://sleepdata.org/datasets/viva)
